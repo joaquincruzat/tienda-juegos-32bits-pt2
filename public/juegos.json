@@ -1,0 +1,52 @@
+[
+  {
+    "codigo": "0001",
+    "nombre": "Sekiro",
+    "stock": "43",
+    "precio": "30000",
+    "color": "red",
+    "cover": "https://as01.epimg.net/meristation/imagenes/2019/10/08/cover/993478151570529267.jpg"
+
+  },
+  {
+    "codigo": "0002",
+    "nombre": "Fifa 21",
+    "stock": "55",
+    "precio": "25000",
+    "color": "blue",
+    "cover": "https://www.tonica.la/__export/1595443363814/sites/debate/img/2020/07/22/fifa-21-caratula-oficial.jpg_423682103.jpg"
+
+  },
+  {
+    "codigo": "0003",
+    "nombre": "Gears of War 4",
+    "stock": "12",
+    "precio": "15000",
+    "color": "green",
+    "cover": "http://oyster.ignimgs.com/wordpress/stg.ign.com/2016/04/ghsfsgh-gears-of-war-4-vertical.jpg"
+  },
+  {
+    "codigo": "0004",
+    "nombre": "Mario Tennis Aces",
+    "stock": "56",
+    "precio": "35000",
+    "color": "black",
+    "cover": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_auto/c_scale,w_500/v1/ncom/en_US/games/switch/m/mario-tennis-aces-switch/hero"
+  },
+  {
+    "codigo": "0005",
+    "nombre": "Bloodborne",
+    "stock": "12",
+    "precio": "10000",
+    "color": "blue",
+    "cover": "https://cdn.shopify.com/s/files/1/0568/2298/8958/products/Sie-Bloodborne-Playstation-4-Ps4---New-Japan-Figure-4948872325059-0.jpg?v=1639297482"
+  },
+  {
+    "codigo": "0006",
+    "nombre": "Forza Horizon 4",
+    "stock": "4",
+    "precio": "20000",
+    "color": "red",
+    "cover": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2018/08/forza-horizon-4-cover.jpg?itok=CiqSe3ev"
+  }
+]
